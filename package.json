@@ -1,0 +1,23 @@
+{
+  "name": "p5-windows",
+  "version": "0.0.1",
+  "description": "A simple window manager for P5",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c3ypt1c/p5-windows.git"
+  },
+  "keywords": [
+    "p5",
+    "windows"
+  ],
+  "author": "Lukasz Baldyga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c3ypt1c/p5-windows/issues"
+  },
+  "homepage": "https://github.com/c3ypt1c/p5-windows#readme"
+}
