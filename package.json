@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/c3ypt1c/p5-windows/issues"
   },
-  "homepage": "https://github.com/c3ypt1c/p5-windows#readme"
+  "homepage": "https://github.com/c3ypt1c/p5-windows#readme",
+  "dependencies": {
+    "p5": "^1.4.0"
+  }
 }
